@@ -1,0 +1,18 @@
+{
+    "name": "freshteacher/comp",
+    "description": "first package",
+    "require": {
+        "slim/slim": "^4.13"
+    },
+    "autoload": {
+        "psr-4": {
+            "Freshteacher\\Comp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fresh-Teacher",
+            "email": "98003374+Fresh-Teacher@users.noreply.github.com"
+        }
+    ]
+}
